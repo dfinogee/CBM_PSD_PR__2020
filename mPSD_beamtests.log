@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.12)  25 JAN 2021 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.12)  28 JAN 2021 10:43
 entering extended mode
 **./mPSD_beamtests.tex
 (mPSD_beamtests.tex
@@ -190,52 +190,28 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
 
 
 (C:\Users\dmitr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
 
 
 (C:\Users\dmitr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<FEE_scheme.png, id=1, 805.5696pt x 763.653pt>
-File: FEE_scheme.png Graphic file (type png)
-<use FEE_scheme.png>
-Package pdftex.def Info: FEE_scheme.png  used on input line 40.
-(pdftex.def)             Requested size: 193.47577pt x 183.40863pt.
-<mPSD_FEE_photo.JPG, id=3, 2518.1578pt x 1927.95282pt>
+<mPSD_FEE_photo.JPG, id=1, 2518.1578pt x 1927.95282pt>
 File: mPSD_FEE_photo.JPG Graphic file (type jpg)
 <use mPSD_FEE_photo.JPG>
-Package pdftex.def Info: mPSD_FEE_photo.JPG  used on input line 61.
-(pdftex.def)             Requested size: 145.11052pt x 111.08295pt.
-<mPSD_module_photo.JPG, id=4, 491.9178pt x 746.3082pt>
+Package pdftex.def Info: mPSD_FEE_photo.JPG  used on input line 33.
+(pdftex.def)             Requested size: 96.73788pt x 74.04549pt.
+<mPSD_module_photo.JPG, id=2, 491.9178pt x 746.3082pt>
 File: mPSD_module_photo.JPG Graphic file (type jpg)
 <use mPSD_module_photo.JPG>
-Package pdftex.def Info: mPSD_module_photo.JPG  used on input line 63.
+Package pdftex.def Info: mPSD_module_photo.JPG  used on input line 35.
 (pdftex.def)             Requested size: 96.73788pt x 146.76508pt.
-
-[1{C:/Users/dmitr/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
-
-
-
-Non-PDF special ignored!
-<special> !% DocumentClass: CBM-PR-2018.cls
-
- <./FEE_scheme.png>]
-<run582.png, id=13, 1369.115pt x 675.52374pt>
-File: run582.png Graphic file (type png)
-<use run582.png>
-Package pdftex.def Info: run582.png  used on input line 77.
-(pdftex.def)             Requested size: 483.69684pt x 238.653pt.
-
-Overfull \hbox (248.96161pt too wide) in paragraph at lines 77--78
- [][] 
- []
-
 Package epstopdf Info: Source file: <582_time_spectrum.eps>
 (epstopdf)                    date: 2020-09-21 11:45:24
 (epstopdf)                    size: 15597 bytes
@@ -244,17 +220,17 @@ Package epstopdf Info: Source file: <582_time_spectrum.eps>
 (epstopdf)                    size: 10580 bytes
 (epstopdf)             Command: <epstopdf --outfile=582_time_spectrum-eps-conve
 rted-to.pdf 582_time_spectrum.eps>
-(epstopdf)             \includegraphics on input line 90.
+(epstopdf)             \includegraphics on input line 47.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./582_time_spectrum-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<582_time_spectrum-eps-converted-to.pdf, id=14, 569.12625pt x 280.04625pt>
+<582_time_spectrum-eps-converted-to.pdf, id=3, 569.12625pt x 280.04625pt>
 File: 582_time_spectrum-eps-converted-to.pdf Graphic file (type pdf)
 <use 582_time_spectrum-eps-converted-to.pdf>
 Package pdftex.def Info: 582_time_spectrum-eps-converted-to.pdf  used on input 
-line 90.
+line 47.
 (pdftex.def)             Requested size: 241.84842pt x 119.00739pt.
 Package epstopdf Info: Source file: <en_distrib_ch0.eps>
 (epstopdf)                    date: 2020-09-21 11:45:24
@@ -264,47 +240,48 @@ Package epstopdf Info: Source file: <en_distrib_ch0.eps>
 (epstopdf)                    size: 8601 bytes
 (epstopdf)             Command: <epstopdf --outfile=en_distrib_ch0-eps-converte
 d-to.pdf en_distrib_ch0.eps>
-(epstopdf)             \includegraphics on input line 92.
+(epstopdf)             \includegraphics on input line 49.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./en_distrib_ch0-eps-converted-to.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<en_distrib_ch0-eps-converted-to.pdf, id=15, 569.12625pt x 387.4475pt>
+<en_distrib_ch0-eps-converted-to.pdf, id=4, 569.12625pt x 387.4475pt>
 File: en_distrib_ch0-eps-converted-to.pdf Graphic file (type pdf)
 <use en_distrib_ch0-eps-converted-to.pdf>
 Package pdftex.def Info: en_distrib_ch0-eps-converted-to.pdf  used on input lin
-e 92.
+e 49.
 (pdftex.def)             Requested size: 169.29684pt x 115.25375pt.
 
-Overfull \hbox (7.11319pt too wide) in paragraph at lines 90--93
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 47--50
  [][] 
  []
 
+[1{C:/Users/dmitr/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <./mPSD_FEE_photo.JPG> <./mPSD_module_photo.JPG> <./run582.png> <./582_time
-_spectrum-eps-converted-to.pdf> <./en_distrib_ch0-eps-converted-to.pdf>] [3
 
-]
-(mPSD_beamtests.aux) ) 
+Non-PDF special ignored!
+<special> !% DocumentClass: CBM-PR-2018.cls
+
+ <./mPSD_FEE_photo.JPG> <./mPSD_module_photo.JPG> <./582_time_spectrum-eps-conv
+erted-to.pdf> <./en_distrib_ch0-eps-converted-to.pdf>] (mPSD_beamtests.aux) ) 
 Here is how much of TeX's memory you used:
- 2488 strings out of 480790
- 33102 string characters out of 2897301
- 273528 words of memory out of 3000000
- 18474 multiletter control sequences out of 15000+200000
+ 2468 strings out of 480790
+ 32871 string characters out of 2897301
+ 269512 words of memory out of 3000000
+ 18457 multiletter control sequences out of 15000+200000
  554830 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,6n,31p,843b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/dmitr/AppData/Local/Programs/MiKTeX/fonts/enc/d
-vips/base/8r.enc}<C:/Users/dmitr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
-times/utmb8a.pfb><C:/Users/dmitr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
-times/utmr8a.pfb><C:/Users/dmitr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
-times/utmri8a.pfb>
-Output written on mPSD_beamtests.pdf (3 pages, 3297730 bytes).
+ 32i,6n,31p,594b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C
+:/Users/dmitr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Use
+rs/dmitr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Use
+rs/dmitr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Use
+rs/dmitr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on mPSD_beamtests.pdf (1 page, 2842892 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
